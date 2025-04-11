@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name's Vu, I'm a SMU MITB (Singapore) trained data scientist and scholarship holder. I'm interested in all things DS and AI related.  
+My name's Vu, I'm a SMU MITB (Singapore) trained data scientist and scholarship holder. Talk with me about all things DS and AI related.  
 
 
 <!--
